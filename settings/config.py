@@ -32,5 +32,6 @@ class Settings(BaseSettings):
         env_file = ".env"
         env_file_encoding = 'utf-8'
 
-# Instantiate settings to be imported in your application
+
+# Instant settings to be imported in your application
 settings = Settings()
