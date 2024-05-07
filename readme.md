@@ -1,3 +1,25 @@
+
+## Recently Addressed Issues
+
+### Issue 1: Inconsistent Authentication States
+- **Resolved**: Updated application logic to clearly differentiate between `authenticated`, `editor`, and `pro` user states, ensuring appropriate access control and security.
+
+### Issue 2: Lack of User Role Differentiation
+- **Resolved**: Implemented boolean flags for user roles, enabling the application to control feature access based on user privileges effectively.
+
+### Issue 3: Incorrect Return Values in Authentication Checks
+- **Resolved**: Corrected return values in authentication-related functions to ensure accurate user status reporting and enhance system reliability.
+
+### Issue 4: Missing Authentication Mechanisms for API Keys
+- **Resolved**: Introduced secure mechanisms for managing API keys used for Discord and OpenAI integrations, enhancing overall application security.
+
+## Contributing
+
+Contributions to this project are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
+
+
+
+
 # Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
 
 Welcome to the Event Manager Company! As a newly hired Software QA Analyst/Developer and a student in software engineering, you are embarking on an exciting journey to contribute to our project aimed at developing a secure, robust REST API that supports JWT token-based OAuth2 authentication. This API serves as the backbone of our user management system and will eventually expand to include features for event management and registration.
