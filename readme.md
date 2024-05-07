@@ -1,4 +1,13 @@
 
+[issue 1](https://github.com/vinaystgamidi191/event_manager/issues/1)
+
+[issue 2](https://github.com/vinaystgamidi191/event_manager/issues/2)
+
+[issue 3](https://github.com/vinaystgamidi191/event_manager/issues/3)
+
+[issue 4](https://github.com/vinaystgamidi191/event_manager/issues/4)
+
+
 ## Recently Addressed Issues
 
 ### Issue 1: Inconsistent Authentication States
